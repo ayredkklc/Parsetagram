@@ -21,6 +21,7 @@
 		CD7C44D92605B73A00AEBC7D /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7C44D82605B73A00AEBC7D /* FeedViewController.swift */; };
 		CD7C44DE2605BDBB00AEBC7D /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7C44DD2605BDBB00AEBC7D /* CameraViewController.swift */; };
 		CD7C44F82605C92100AEBC7D /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7C44F72605C92100AEBC7D /* PostCell.swift */; };
+		CDC94F29260EF87800E64F10 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC94F28260EF87800E64F10 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		CD7C44D82605B73A00AEBC7D /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		CD7C44DD2605BDBB00AEBC7D /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		CD7C44F72605C92100AEBC7D /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		CDC94F28260EF87800E64F10 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F4000FA76F942352903DA585 /* Pods-Parsetagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parsetagram.release.xcconfig"; path = "Target Support Files/Pods-Parsetagram/Pods-Parsetagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -155,6 +157,7 @@
 				CD7C44D82605B73A00AEBC7D /* FeedViewController.swift */,
 				CD7C44DD2605BDBB00AEBC7D /* CameraViewController.swift */,
 				CD7C44F72605C92100AEBC7D /* PostCell.swift */,
+				CDC94F28260EF87800E64F10 /* CommentCell.swift */,
 			);
 			path = Parsetagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				CD7C44D92605B73A00AEBC7D /* FeedViewController.swift in Sources */,
 				CD7C44972605B59C00AEBC7D /* SceneDelegate.swift in Sources */,
 				CD7C44F82605C92100AEBC7D /* PostCell.swift in Sources */,
+				CDC94F29260EF87800E64F10 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
